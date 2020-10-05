@@ -26,7 +26,7 @@ When the application is open the users account balance is shown.  They can enter
 To use locally save files run npm install and npm start.
 
 ## Application URL
-Navigate to (url)
+https://budgetingplus.herokuapp.com/
 
 ## Project status
 The budget tracker is compliant with defined acceptance criteria
